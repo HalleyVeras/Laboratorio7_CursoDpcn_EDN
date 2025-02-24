@@ -5,11 +5,11 @@
 
 ###
 <a href="https://escoladanuvem.org"><a href="https://aws.amazon.com/pt/?nc2=h_lg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" width="180" alt="AWS Logo">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" width="150" alt="AWS Logo">
 </a>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUyYcSb419JTRt9roMB682vIBhG-H_OUuvNw&s" width="80" alt="AWS Logo">- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpiiBVPv8hPlWDzWtGBtSbBGVmYR9M3v2K1Q&s" width="80" alt="AWS Logo">-<img src="https://files.svgcdn.io/logos/aws-ec2.svg" width="80" alt="AWS Logo">-<img src="https://cdn.worldvectorlogo.com/logos/amazon-s3-simple-storage-service.svg" width="80" alt="AWS Logo">-
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRsHozuh-tDR3wCxV5bR-TI04bRbnVmfISpA&s" width="80" alt="AWS Logo">-
-    <img src="https://github.com/HalleyVeras/Escola_da_Nuvem/blob/main/Documentos/download%20(4)_processed.png?raw=true" width="210" alt="Second Image">
+    <img src="https://github.com/HalleyVeras/Escola_da_Nuvem/blob/main/Documentos/download%20(4)_processed.png?raw=true" width="180" alt="Second Image">
 </a>
 </div>
 
