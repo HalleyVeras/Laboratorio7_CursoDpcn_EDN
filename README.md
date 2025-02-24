@@ -152,3 +152,18 @@ Você precisa monitorar o desempenho de uma instância EC2 e ser alertado sobre 
    sudo yum update -y
    sudo amazon-linux-extras install epel -y # Amazon Linux 2
    sudo yum install stress -y
+
+3. Execute o **stress test** para simular alta CPU:
+
+```bash
+stress --cpu 8 --timeout 600
+```
+
+4. Monitore o **CloudWatch** e aguarde o e-mail de alerta.
+5. Finalize o stress com `CTRL+C`.
+
+📸 *Inserir print do e-mail de alerta.*
+
+---
+
+✅ **Fim do laboratório!**
