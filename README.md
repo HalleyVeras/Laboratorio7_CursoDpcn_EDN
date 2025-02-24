@@ -53,7 +53,13 @@ Você precisa monitorar o desempenho de uma instância EC2 e ser alertado sobre 
 3. **Instância de lançamento**.
 4. **Anote o Instance ID**.
 
-**Espaço para print 1**: [Adicione um print da instância criada aqui]
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo1/Painel_ec2.jpg?raw=true">-
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo1/Painel_ec2_launchinstance_02.jpg?raw=true" width="400" alt="AWS Logo">-
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo1/Painel_ec2_launchinstance_03.jpg?raw=true" width="400" alt="AWS Logo">-
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo1/Painel_ec2_launchinstance_04.jpg?raw=true" width="400" alt="AWS Logo">-
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo1/Painel_ec2_launchinstance_05.jpg?raw=true" width="400" alt="AWS Logo">-
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo1/Painel_ec2_launchinstance_06.jpg?raw=true" width="400" alt="AWS Logo">-
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo1/Painel_ec2_launchinstance_07.jpg?raw=true" width="400" alt="AWS Logo">-
 
 ---
 
@@ -87,7 +93,20 @@ Você precisa monitorar o desempenho de uma instância EC2 e ser alertado sobre 
    - **Próximo**.
 5. **Visualizar e criar**: Revisar e Criar alarme.
 
-**Espaço para print 2**: [Adicione um print do alarme configurado aqui]
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo2/Painel_cloudwatch.jpg?raw=true">-
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo2/Painel_cloudwatch_02.jpg?raw=true" width="400" alt="AWS Logo">-
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo2/Painel_cloudwatch_03.jpg?raw=true" width="400" alt="AWS Logo">-
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo2/Painel_cloudwatch_metrica_04.jpg?raw=true" width="400" alt="AWS Logo">-
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo2/Painel_cloudwatch_metrica_05.jpg?raw=true" width="400" alt="AWS Logo">-
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo2/Painel_cloudwatch_metrica_06.jpg?raw=true" width="400" alt="AWS Logo">-
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo2/Painel_cloudwatch_metrica_07.jpg?raw=true" width="400" alt="AWS Logo">-
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo2/Painel_cloudwatch_metrica_08.jpg?raw=true" width="400" alt="AWS Logo">-
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo2/Painel_cloudwatch_metrica_09.jpg?raw=true" width="400" alt="AWS Logo">-
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo2/Painel_cloudwatch_metrica_10.jpg?raw=true" width="400" alt="AWS Logo">-
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo2/Painel_cloudwatch_metrica_11.jpg?raw=true" width="400" alt="AWS Logo">-
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo2/Painel_cloudwatch_metrica_12.jpg?raw=true" width="400" alt="AWS Logo">-
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo2/Painel_cloudwatch_metrica_13.jpg?raw=true" width="400" alt="AWS Logo">-
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo2/Painel_cloudwatch_metrica_14.jpg?raw=true" width="400" alt="AWS Logo">-
 
 ---
 
@@ -119,7 +138,12 @@ Você precisa monitorar o desempenho de uma instância EC2 e ser alertado sobre 
    - **Clique em Next**.
 5. **Etapa 3: Revise e crie**: Revise e crie trilha.
 
-**Espaço para print 3**: [Adicione um print da trilha criada aqui]
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo3/painel_cloudtrail.jpg?raw=true">-
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo3/painel_cloudtrail_02.jpg?raw=true" width="400" alt="AWS Logo">-
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo3/painel_cloudtrail_03.jpg?raw=true" width="400" alt="AWS Logo">-
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo3/painel_cloudtrail_04.jpg?raw=true" width="400" alt="AWS Logo">-
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo3/painel_cloudtrail_05.jpg?raw=true" width="400" alt="AWS Logo">-
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo3/painel_cloudtrail_06.jpg?raw=true" width="400" alt="AWS Logo">-
 
 ---
 
@@ -140,7 +164,7 @@ Você precisa monitorar o desempenho de uma instância EC2 e ser alertado sobre 
    - **Console CloudWatch**: **Logs** -> **Grupos de logs**.
    - **Visualizar Logs**: Clique no grupo de logs.
 
-**Espaço para print 4**: [Adicione um print dos logs aqui]
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo3/painel_s3.jpg?raw=true">-
 
 ---
 
@@ -162,7 +186,12 @@ stress --cpu 8 --timeout 600
 4. Monitore o **CloudWatch** e aguarde o e-mail de alerta.
 5. Finalize o stress com `CTRL+C`.
 
-📸 *Inserir print do e-mail de alerta.*
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo3/Moba_01.jpg?raw=true">-
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo3/Moba_02.jpg?raw=true" width="400" alt="AWS Logo">-
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo3/Moba_03.jpg?raw=true" width="400" alt="AWS Logo">-
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo3/Stress_CloudWatch_dashboard.jpg?raw=true" width="400" alt="AWS Logo">-
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo3/Stress_in_alarm.jpg?raw=true" width="400" alt="AWS Logo">-
+<img src="https://github.com/HalleyVeras/Laboratorio7_CursoDpcn_EDN/blob/main/arquivo3/Stress_via_sns.jpg?raw=true" width="400" alt="AWS Logo">-
 
 ---
 
